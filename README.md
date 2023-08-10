@@ -55,10 +55,11 @@ URL: http://localhost:3002/api/v1/options/delete/:id
 ![Screenshot (14)](https://github.com/manojkalyan/pollingsystem/assets/70328306/c7675337-36b6-4c23-928c-57a7a2e1ffdd)
 # Add an Option to a Question Image:
 ![Screenshot (15)](https://github.com/manojkalyan/pollingsystem/assets/70328306/39273b53-d066-40e5-927d-b9a00d487bfa)
-# View a Question image:
 ![Screenshot (16)](https://github.com/manojkalyan/pollingsystem/assets/70328306/08440420-0d1a-44f9-916c-39fabd00d755)
 # Add vote image:
 
+
 ![Screenshot (18)](https://github.com/manojkalyan/pollingsystem/assets/70328306/70eac62f-9545-407c-8729-9d50f51cfb7f)
+![Screenshot (17)](https://github.com/manojkalyan/pollingsystem/assets/70328306/f28cfda5-8680-4a72-a8bb-67196725ec68)
 
 
