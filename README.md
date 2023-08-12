@@ -61,5 +61,11 @@ URL: http://localhost:3002/api/v1/options/delete/:id
 
 ![Screenshot (18)](https://github.com/manojkalyan/pollingsystem/assets/70328306/70eac62f-9545-407c-8729-9d50f51cfb7f)
 ![Screenshot (17)](https://github.com/manojkalyan/pollingsystem/assets/70328306/f28cfda5-8680-4a72-a8bb-67196725ec68)
+# delete question image
+
+
+
+![Screenshot (51)](https://github.com/manojkalyan/pollingsystem/assets/70328306/8c15e632-2dd4-44f1-aaab-8c062e2cc116)
+
 
 
